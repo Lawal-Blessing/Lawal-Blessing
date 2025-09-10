@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blessing</h1>
-<h3 align="center">A passionate Data Analyst</h3>
 <img width="845" height="515" alt="image" src="https://github.com/user-attachments/assets/9d77feb1-3c2b-4c5d-aaee-0dcea002f97b" />
+
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawal-blessing&label=Profile%20views&color=0e75b6&style=flat" alt="lawal-blessing" /> </p>
 
